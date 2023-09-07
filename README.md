@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhinav Ramesh Kashyap
-- 👀 I’m interested in NLP, Domain Adaptation and Biomedical NLP
+- 👀 I’m interested in NLP, Domain Adaptation and Clinical NLP
 - 💞️ I’m looking to collaborate on ICD-10 coding and anything in Biomedical NLP. We are working on a host of problems. 
 - 📫 Reach me using abhinav_kashyap@asus.com
 
